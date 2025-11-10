@@ -3,7 +3,7 @@
 <div align="center">
   <a href="mailto:mateusmarochi@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.linkedin.com/in/mateus-marochi-olenik/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://lattes.cnpq.br/6904291121100765"><img src="https://img.shields.io/badge/Lattes-%23006699?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjRkZGIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0iTGF0dGVzIj48cGF0aCBkPSJNMTIgMmMtNS41MjIgMC0xMCA0LjQ3OC0xMCAxMCAwIDUuNTIyIDQuNDc4IDEwIDEwIDEwczEwLTQuNDc4IDEwLTEwLTQuNDc4LTEwLTEwLTEwek0xMiA0YzQuNDE5IDAgOCAzLjU4MSA4IDggMCA0LjQxOS0zLjU4MSA4LTggOC00LjQxOSAwLTgtMy41ODEtOC04IDAtNC40MTkgMy41ODEtOCA4LTh6bS0yIDEyaDZ2MkgxMHoiLz48cGF0aCBkPSJNMTIgNmMtMy4zMTQgMC02IDIuNjg2LTYgNiAwIDMuMzE0IDIuNjg2IDYgNiA2IDMuMzE0IDAgNi0yLjY4NiA2LTYgMC0zLjMxNC0yLjY4Ni02LTYtNnptMCAyYzIuMjA2IDAgNCAxLjc5NCA0IDQgMCAyLjIwNi0xLjc5NCA0LTQgNC0yLjIwNiAwLTQtMS43OTQtNC00IDAtMi4yMDYgMS43OTQtNCA0LTR6Ii8+PC9zdmc%2B" alt="Lattes"></a>
+  <a href="https://lattes.cnpq.br/6904291121100765"><img src="https://img.shields.io/badge/-Lattes-%23003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes"></a>
   <a href="https://instagram.com/mateusmarochi/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
@@ -88,7 +88,8 @@
 ## 📫 Vamos conversar?
 
 - ✉️ **Email:** [mateusmarochi@gmail.com](mailto:mateusmarochi@gmail.com)
-- 🌐 **Lattes:** [Currículo Lattes](https://lattes.cnpq.br/6904291121100765)
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mateus-marochi-olenik/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+- 🌐 **Lattes:** <a href="https://lattes.cnpq.br/6904291121100765"><img src="https://img.shields.io/badge/-Lattes-%23003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes"></a>
 - 📍 Pato Branco – PR, Brasil
 
 ---
