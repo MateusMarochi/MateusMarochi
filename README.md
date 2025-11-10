@@ -1,48 +1,79 @@
 # 👋 Olá, eu sou o Mateus Marochi Olenik
 
-🎓 Engenheiro de Computação formado pela **UTFPR (Universidade Tecnológica Federal do Paraná)** em 2024/02.  
-💻 Atualmente atuo como **Desenvolvedor Pleno Fullstack** na **Terris Tecnologia (Ct2 Tecnologia LTDA)** desde Maio de 2025.  
+<div align="center">
+  <a href="mailto:mateusolenik@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/mateus-marochi-olenik/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://lattes.cnpq.br/6904291121100765"><img src="https://img.shields.io/badge/Lattes-%23006699?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjRkZGIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHJvbGU9ImltZyIgYXJpYS1sYWJlbD0iTGF0dGVzIj48cGF0aCBkPSJNMTIgMmMtNS41MjIgMC0xMCA0LjQ3OC0xMCAxMCAwIDUuNTIyIDQuNDc4IDEwIDEwIDEwczEwLTQuNDc4IDEwLTEwLTQuNDc4LTEwLTEwLTEwek0xMiA0YzQuNDE5IDAgOCAzLjU4MSA4IDggMCA0LjQxOS0zLjU4MSA4LTggOC00LjQxOSAwLTgtMy41ODEtOC04IDAtNC40MTkgMy41ODEtOCA4LTh6bS0yIDEyaDZ2MkgxMHoiLz48cGF0aCBkPSJNMTIgNmMtMy4zMTQgMC02IDIuNjg2LTYgNiAwIDMuMzE0IDIuNjg2IDYgNiA2IDMuMzE0IDAgNi0yLjY4NiA2LTYgMC0zLjMxNC0yLjY4Ni02LTYtNnptMCAyYzIuMjA2IDAgNCAxLjc5NCA0IDQgMCAyLjIwNi0xLjc5NCA0LTQgNC0yLjIwNiAwLTQtMS43OTQtNC00IDAtMi4yMDYgMS43OTQtNCA0LTR6Ii8+PC9zdmc%2B" alt="Lattes"></a>
+  <a href="https://instagram.com/mateusmarochi/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</div>
+
+🎓 Engenheiro de Computação formado pela **UTFPR (Universidade Tecnológica Federal do Paraná)** em 2024/02.
+💻 Atualmente atuo como **Desenvolvedor Pleno Fullstack** na **Terris Tecnologia (Ct2 Tecnologia LTDA)** desde maio de 2025.
 🚀 Apaixonado por tecnologia, inovação e por transformar boas ideias em código (que compila, de preferência).
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-- Tenho experiência em **desenvolvimento Fullstack**, **hardware**, **IoT** e **aplicações 3D**.  
-- Já atuei em projetos de **agricultura de precisão**, **sistemas embarcados**, **realidade aumentada/virtual** e **machine learning**.  
-- Meus interesses vão desde **inteligência artificial** até **prototipagem digital**, passando por design, eletrônica e até música.  
-- Acredito que a tecnologia deve ser uma ponte entre pessoas, ideias e soluções reais.  
+- Experiência em **desenvolvimento fullstack**, **hardware**, **IoT** e **aplicações 3D**.
+- Atuação em projetos de **agricultura de precisão**, **sistemas embarcados**, **realidade aumentada/virtual** e **machine learning**.
+- Interesses que vão de **inteligência artificial** até **prototipagem digital**, passando por design, eletrônica e música.
+- Tecnologia como ponte entre pessoas, ideias e soluções reais.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** C, C++, C#, Java, Python, JavaScript, PHP, SQL, HTML, CSS, LaTeX  
-- **Web & Mobile:** React, React Native, Angular, Flutter, Firebase, Bootstrap, Material Design  
-- **3D & VR:** Unity (avançado), modelagem e simulações 3D  
-- **Hardware & IoT:** Arduino, Raspberry Pi, ESP32, STM32, PCBs (Proteus)  
-- **Design & Prototipagem:** Photoshop, Illustrator, SolidWorks, FreeCAD, AutoCAD, impressão 3D e CNC  
-- **Inteligência Artificial:** integração de APIs (como ChatGPT), redes neurais, análise preditiva  
-- **GNSS & Geoespacial:** RTK, GPS/GLONASS/Galileo/BeiDou, QGIS  
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+  <img align="center" alt="C++" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="CSharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+  <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Javascript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="PHP" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="React Native" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+  <img align="center" alt="Flutter" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Material" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" />
+  <img align="center" alt="Unity" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" />
+  <img align="center" alt="Arduino" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" />
+  <img align="center" alt="Raspberry Pi" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" />
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img align="center" alt="GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+</div>
+
+- **Linguagens:** C, C++, C#, Java, Python, JavaScript, PHP, SQL, HTML, CSS, LaTeX
+- **Web & Mobile:** React, React Native, Angular, Flutter, Firebase, Bootstrap, Material Design
+- **3D & VR:** Unity (avançado), modelagem e simulações 3D
+- **Hardware & IoT:** Arduino, Raspberry Pi, ESP32, STM32, PCBs (Proteus)
+- **Design & Prototipagem:** Photoshop, Illustrator, SolidWorks, FreeCAD, AutoCAD, impressão 3D e CNC
+- **Inteligência Artificial:** integração de APIs (como ChatGPT), redes neurais, análise preditiva
+- **GNSS & Geoespacial:** RTK, GPS/GLONASS/Galileo/BeiDou, QGIS
 - **Metodologias:** Scrum, colaboração ágil e foco em resultados
 
 ---
 
 ## 🎯 Interesses
 
-- 🤝 Liderança e trabalho em equipe  
-- 🏐 Esportes: vôlei, corrida e atividades que unem corpo e mente  
-- 🎶 Música: percussão, bateria e violão  
-- 🎮 Games como lazer e forma criativa de explorar narrativas  
-- 🙏 Envolvimento comunitário e atividades voluntárias  
+- 🤝 Liderança e trabalho em equipe
+- 🏐 Esportes: vôlei, corrida e atividades que unem corpo e mente
+- 🎶 Música: percussão, bateria e violão
+- 🎮 Games como lazer e forma criativa de explorar narrativas
+- 🙏 Envolvimento comunitário e atividades voluntárias
 
 ---
 
 ## 📫 Vamos conversar?
 
-- ✉️ **Email:** [mateusolenik@alunos.utfpr.edu.br](mailto:mateusolenik@alunos.utfpr.edu.br)  
-- 🌐 **Lattes:** [Currículo Lattes](https://lattes.cnpq.br/6904291121100765)  
-- 📍 Pato Branco – PR, Brasil  
+- ✉️ **Email:** [mateusolenik@alunos.utfpr.edu.br](mailto:mateusolenik@alunos.utfpr.edu.br)
+- 🌐 **Lattes:** [Currículo Lattes](https://lattes.cnpq.br/6904291121100765)
+- 📍 Pato Branco – PR, Brasil
 
 ---
 
