@@ -88,8 +88,7 @@
 ## 📫 Vamos conversar?
 
 - ✉️ **Email:** [mateusmarochi@gmail.com](mailto:mateusmarochi@gmail.com)
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/mateus-marochi-olenik/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-- 🌐 **Lattes:** <a href="https://lattes.cnpq.br/6904291121100765"><img src="https://img.shields.io/badge/-Lattes-%23003366?style=for-the-badge&logo=academia&logoColor=white" alt="Lattes"></a>
+- 🌐 **Lattes:** [Currículo Lattes](https://lattes.cnpq.br/6904291121100765)
 - 📍 Pato Branco – PR, Brasil
 
 ---
